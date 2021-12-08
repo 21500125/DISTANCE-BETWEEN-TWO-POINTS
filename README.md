@@ -19,8 +19,7 @@ import math
 value=math.sqrt((x2-x1)**2+(y2-y1)**2)
 print("{:.2f}".format(value))
 
-
-### OUTPUT:
+### OUTPUT: 
 ![OUTOUT](./distance.png)
 
 
