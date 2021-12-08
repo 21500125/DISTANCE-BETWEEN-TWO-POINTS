@@ -21,7 +21,6 @@ print("{:.2f}".format(value))
 
 
 ### OUTPUT:
-
 ![OUTOUT](./distance.png)
 
 
